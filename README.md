@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meryem Talay</h1>
+<h1 align="center">Hi 👋, I'm Meryem </h1>
 <h3 align="center">A passionate Android and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryemtalay&label=Profile%20views&color=0e75b6&style=flat" alt="meryemtalay" /> </p>
