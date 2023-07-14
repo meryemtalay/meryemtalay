@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryemtalay&label=Profile%20views&color=0e75b6&style=flat" alt="meryemtalay" /> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **meyremtlly@gmail.com**
 
