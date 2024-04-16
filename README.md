@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meryem</h1>
-<h3 align="center">My career goal is to be a .NET Developer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meryemtalay&label=Profile%20views&color=0e75b6&style=flat" alt="meryemtalay" /> </p>
 
